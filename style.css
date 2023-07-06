@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+}
+
+.header {
+    background-color: #541554;
+    width: 100%;
+}
+
+.divH {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.c-nav-menu {
+    display: flex;
+
+}
+
+.dropDown {
+    display: none;
+}
+
+.nav {
+    text-anchor: middle;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.down:checked {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
