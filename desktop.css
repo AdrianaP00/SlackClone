@@ -1,0 +1,77 @@
+@media only screen and (min-width: 844px) {
+
+    header {
+        padding-bottom: 5rem;
+    }
+
+    .hamburger {
+        display: none;
+    }
+
+    .btn {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .c-nav-menu {
+        display: flex;
+        color: #fff;
+    }
+
+    .bonito-div {
+        display: flex;
+        align-items: center;
+    }
+
+    .bann {
+        display: grid;
+        justify-items: start;
+        align-items: center;
+        column-gap: 2%;
+        grid-template-columns: 53% 45%;
+        margin: 0 auto;
+        max-width: 76.875rem;
+    }
+
+    nav {
+        justify-content: space-around;
+    }
+
+    .column-txt {
+        display: block;
+        text-align: left;
+    }
+
+    .video {
+        max-width: 700px;
+        margin-left: 120px;
+    }
+
+    .gallery-box {
+        margin-right: 80px;
+        margin-left: 80px;
+        margin-top: 50px;
+    }
+
+    .left-bann {
+        display: grid;
+        justify-items: start;
+        align-items: center;
+        column-gap: 2%;
+        grid-template-columns: 53% 45%;
+        margin: 0 auto;
+        max-width: 76.875rem;
+        margin-top: 70px;
+        margin-left: 300px;
+    }
+
+    .left-bann-video {
+        max-height: 250px;
+        max-width: 100%;
+        height: auto;
+        display: inline-block;
+        vertical-align: baseline;
+    }
+
+}
