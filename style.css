@@ -351,8 +351,12 @@ a {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.sec-perc-video-div-pp {
+ margin-top: 50px;
+}
+
 .sec-perc-pp {
-  margin-left: 30px;
+ margin: 30px;
 }
 
 .sec-perc-video {
