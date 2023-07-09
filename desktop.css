@@ -317,6 +317,14 @@
 
    }
 
+   .gallery-cards {
+    display: none;
+    
+
+  }
+  
+
+
    .sub-footer {
     display: flex;
     flex-direction: row;
