@@ -2,7 +2,7 @@
 Slack introduction page clone
 
 
-![Demo CountPages alpha](https://giphy.com/embed/GzVaKHSTK3AtxmO9BP)
+![Demo mobile gif](https://media.giphy.com/media/GzVaKHSTK3AtxmO9BP/giphy.gif)
 
 ## Features
 - Mobile first design
